@@ -1,5 +1,3 @@
-Title: Spam Email Detector — README
-
 📧 Spam Email Detector
 
 A beginner-friendly machine learning project that classifies messages as Spam or Not Spam using Python and Scikit-learn.
